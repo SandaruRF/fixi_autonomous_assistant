@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>spannertool5.jpg</filename>
+	<path>/home/sandaru/Toolbot Finale/tflite-custom-object-bookworm-main/images/spannertool5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redskrew</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>68</ymin>
+			<xmax>312</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
